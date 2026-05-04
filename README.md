@@ -1,6 +1,4 @@
 # Week5-Parking-Garage
-Parking Garage Fee Calculator
-Description
 A command-line program that calculates a parking fee based on hours parked and a coupon type. The user can apply a 20% discount, a $2.00 flat discount, or a $20.00 flat rate. All pricing values are stored as constants to keep the code clean and easy to update.
 What I Learned
 
